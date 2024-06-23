@@ -21,7 +21,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
+https://github.com/RRS-Dev/Wine-Quality.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
